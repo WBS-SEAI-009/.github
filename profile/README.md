@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WBS-SEAI-009/WBS-SEAI-009/blob/main/banner.jpeg" alt="E-SEAI-9 Team Banner"/>
+  <img src="https://github.com/WBS-SEAI-009/.github/blob/main/profile/banner.jpeg" alt="E-SEAI-9 Team Banner"/>
 </p>
 
 ---
